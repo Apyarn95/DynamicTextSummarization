@@ -1,0 +1,4 @@
+Different embeddings+ Variational Auto Encoder (VAE) 😊 😊
+Different embeddings+ Universal sentence encoder 😊😊
+Different embeddings+ Siamese Manhattan LSTM 😊😊😊
+BERT embeddings + Cosine Similarity
